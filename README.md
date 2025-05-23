@@ -54,7 +54,7 @@ Expected Response:
 
 ## Optimization Methodology
 
-Our portfolio optimization approach combines several sophisticated techniques:
+My portfolio optimization approach combines several sophisticated techniques:
 
 1. **Return Forecasting**
    - Uses Prophet (or AutoARIMA alternative) for time series forecasting
